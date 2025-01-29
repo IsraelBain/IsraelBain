@@ -42,7 +42,7 @@
 ---
 
 ## 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelBain&show_icons=true&theme=dracula)  
+![Israel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelBain&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBain&layout=compact&theme=dracula)  
 
 ---
