@@ -42,7 +42,6 @@
 
 ## 📈 **GitHub Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBain&layout=compact&theme=dracula)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IsraelBain&theme=radical&no-bg=true&no-frame=true&column=7)
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
