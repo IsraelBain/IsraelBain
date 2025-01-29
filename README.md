@@ -9,8 +9,8 @@
 ---
 
 ## 🌐 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/israelbain/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/IsraelBain)  
 
 ---
 
@@ -41,8 +41,10 @@
 ---
 
 ## 📈 **GitHub Stats**  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsraelBain&theme=github-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBain&layout=compact&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBain&layout=compact&theme=dracula)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=IsraelBain&theme=github)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
