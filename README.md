@@ -2,9 +2,9 @@
 
 ## ☕️ About Me  
 - 🎓 **Computer Science Student at Dalhousie University**  
-- 💻 Passionate about **Web Development & UI/UX**  
-- 🍸 Co-founder of **Two Sailors Bartending**  
-- 🚀 Looking for **Summer 2025 Internship/Co-Op**  
+- 💻 Passionate about **Web Development & UI/UX**
+- 🚀 Looking for **Summer 2025 Internship/Co-Op** 
+- 🍸 Co-founder of **Two Sailors Bartending**   
 
 ---
 
