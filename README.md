@@ -1,4 +1,4 @@
-# ✨ Hi there, I'm Israel Bain! ☀  
+# Hi there, I'm Israel Bain! ☀  
 
 ## ☕️ About Me  
 - 🎓 **Computer Science Student at Dalhousie University**  
